@@ -1,6 +1,6 @@
-# BOT Discord Palworld Players
+# Palworld Discord Players
 
-Welcome to the BOT Discord Palworld Players project ! 
+Welcome to the Palworld Discord Players project ! 
 
 This TypeScript Discord bot us using RCON to display in-game players using the `/pal_players` command (*editable*), with server version and offline state if needed.
 
