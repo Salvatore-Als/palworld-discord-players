@@ -21,6 +21,9 @@ RCON_PASSWORD = "YOUR_RCON_PASSWORD"
 COMMAND_NAME = "YOUR_COMMAND_NAME"
 ```
 
+`BOT_PREFIX` is important because it is possible that the server name, reflected in the bot name, is a real player name.
+I therefore advise you to put a prefix in it, in the characters authorized by Discord
+
 ## Start the Bot
 
 run the following commands
